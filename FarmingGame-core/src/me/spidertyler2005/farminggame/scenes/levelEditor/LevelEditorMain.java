@@ -89,7 +89,8 @@ public class LevelEditorMain implements scene {
 
 	@Override
 	public void dispose() {
-		// TODO Auto-generated method stub
+		tileimg.dispose();
+		batch.dispose();
 
 	}
 
