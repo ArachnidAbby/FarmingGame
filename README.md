@@ -1,2 +1,2 @@
 # FarmingGame
-A farming game
+A small, un-named farming game that I am working on.
